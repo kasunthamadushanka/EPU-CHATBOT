@@ -1,6 +1,5 @@
-# EPU CHAT BOT
 <p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/1c5d2fe8f9d29a2fa3cc0.jpg" width="2500"></a></p> 
-<h1 align="center"><b>CHAT-BOT</b></h1>
+<h1 align="center"><b>EPU-CHAT-BOT</b></h1>
 <h4 align="center">A Simple Chatbot In Telethon With Join To Message Support !</h4>
 
 
@@ -27,3 +26,7 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
+
+
+### Credits
+- Original Repo
