@@ -1,7 +1,7 @@
 {
-  "name": "ChatBot",
+  "name": "EPUCHATBOT",
   "description": "Simple ChatBot in Telethon.",
-  "logo": "https://static.botsrv.com/website/img/quriobot_favicon.1727b193.png",
+  "logo": "https://telegra.ph/file/1c5d2fe8f9d29a2fa3cc0.jpg",
   "keywords": [
     "telegram",
     "chatbot",
@@ -9,9 +9,9 @@
     "telegram-chatbot",
     "productivity"
   ],
-  "repository": "https://github.com/DevsExpo/ChatBot",
-  "website": "https://github.com/DevsExpo/ChatBot",
-  "success_url": "https://github.com/DevsExpo/ChatBot",
+  "repository": "https://github.com/kasunthamadushanka/EPU-CHATBOT",
+  "website": "https://t.me/epusthakalaya_bots",
+  "success_url": "https://t.me/epusthakalayabotsupport",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
