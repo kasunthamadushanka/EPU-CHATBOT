@@ -11,4 +11,4 @@ class Config(object):
     JMT_ENABLE = os.environ.get("JMT_ENABLE", False)
     JMTC_ID = int(os.environ.get("JMTC_ID", False))
     JMTC_LINK = os.environ.get("JMTC_LINK", "t.me/PutLinkHereNIbbaElseHowPeopleWillKnow")
-    CUSTOM_IMG = os.environ.get("CUSTOM_IMG", "https://static.botsrv.com/website/img/quriobot_favicon.1727b193.png")
+    CUSTOM_IMG = os.environ.get("CUSTOM_IMG", "https://telegra.ph/file/1c5d2fe8f9d29a2fa3cc0.jpg")
